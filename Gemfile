@@ -15,6 +15,7 @@ gem "fog"
 gem "figaro"
 gem "mini_magick"
 gem 'devise', '~> 3.4.0'
+gem 'searchkick'
 
 group :development, :test do
   gem 'byebug'
